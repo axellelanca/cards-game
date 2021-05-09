@@ -1,4 +1,5 @@
 # Project
 
-Little cards game made in Golang in order to discover that programming language
+* Discovering Goland by making a card game
+* Some functions created to learn the syntaxe of Golang
 
